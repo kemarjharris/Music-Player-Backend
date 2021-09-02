@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.csc301.songmicroservice.SongMicroserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.921 s - in com.csc301.songmicroservice.SongMicroserviceApplicationTests

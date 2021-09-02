@@ -1,0 +1,9 @@
+com\csc301\songmicroservice\Song.class
+com\csc301\songmicroservice\SongDalImpl.class
+com\csc301\songmicroservice\DbQueryStatus.class
+com\csc301\songmicroservice\SongMicroserviceApplication.class
+com\csc301\songmicroservice\Utils.class
+com\csc301\songmicroservice\Utils$1.class
+com\csc301\songmicroservice\SongDal.class
+com\csc301\songmicroservice\DbQueryExecResult.class
+com\csc301\songmicroservice\SongController.class
